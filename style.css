@@ -1,0 +1,13 @@
+.fond{
+    background-image: url("bmth.jpg");
+    background-size: cover;
+}
+
+#titre{
+    text-align: center;
+    color: #880808; 
+}
+
+.theImage {
+    float: left;
+}
